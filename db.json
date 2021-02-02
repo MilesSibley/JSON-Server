@@ -25,6 +25,44 @@
       "name": "Detection"
     }
   ],
+  "type": [
+    {
+      "id": 0,
+      "name": "Cairn"
+    },
+    {
+      "id": 1,
+      "name": "Otterhound"
+    },
+    {
+      "id": 2,
+      "name": "Puggle"
+    },
+    {
+      "id": 3,
+      "name": "Boxer"
+    },
+    {
+      "id": 4,
+      "name": "Terrier"
+    },
+    {
+      "id": 5,
+      "name": "Papillon"
+    },
+    {
+      "id": 5,
+      "name": "Husky"
+    },
+    {
+      "id": 5,
+      "name": "Pembroke"
+    },
+    {
+      "id": 5,
+      "name": "Australian Kelpie"
+    }
+  ],
   "products": [
     {
       "id": 0,
@@ -100,11 +138,11 @@
       "id": 7,
       "name": "Mochi",
       "application": "Retrieval",
-      "type": "Whippet",
-      "legendTitle": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+      "type": "Kelpie",
+      "legendTitle": "Mochi is the best!",
       "fileName": "integrated.f90",
       "imageStatus": "Active",
-      "image": "https://images.dog.ceo/breeds/pembroke/n02113023_6655.jpg"
+      "image": "https://images.dog.ceo/breeds/kelpie/n02105412_6431.jpg"
     },
     {
       "id": 8,
