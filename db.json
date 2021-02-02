@@ -1,0 +1,180 @@
+{
+  "application": [
+    {
+      "id": 0,
+      "name": "Hunting"
+    },
+    {
+      "id": 1,
+      "name": "Retrieval"
+    },
+    {
+      "id": 2,
+      "name": "Herding"
+    },
+    {
+      "id": 3,
+      "name": "Therapy"
+    },
+    {
+      "id": 4,
+      "name": "Service"
+    },
+    {
+      "id": 5,
+      "name": "Detection"
+    }
+  ],
+  "products": [
+    {
+      "id": 0,
+      "name": "Gus",
+      "application": "Service",
+      "type": "Cairn",
+      "legendTitle": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+      "fileName": "garden_architecture_chicken.azw",
+      "imageStatus": "Active",
+      "image": "https://images.dog.ceo/breeds/cairn/n02096177_1362.jpg"
+    },
+    {
+      "id": 1,
+      "name": "Rocco",
+      "application": "Detection",
+      "type": "Otterhound",
+      "legendTitle": "The Football Is Good For Training And Recreational Purposes",
+      "fileName": "computers_bedfordshire.paw",
+      "imageStatus": "Active",
+      "image": "https://images.dog.ceo/breeds/otterhound/n02091635_2068.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Milo",
+      "application": "Therapy",
+      "type": "Puggle",
+      "legendTitle": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+      "fileName": "borders_withdrawal.scss",
+      "imageStatus": "Active",
+      "image": "https://images.dog.ceo/breeds/puggle/IMG_070809.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Coco",
+      "application": "Detection",
+      "type": "Boxer",
+      "legendTitle": "The Football Is Good For Training And Recreational Purposes",
+      "fileName": "light_dollar.buffer",
+      "imageStatus": "Active",
+      "image": "https://images.dog.ceo/breeds/boxer/n02108089_6418.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Brutus",
+      "application": "Hunting",
+      "type": "Terrier",
+      "legendTitle": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+      "fileName": "sensor.ts",
+      "imageStatus": "Active",
+      "image": "https://images.dog.ceo/breeds/terrier-bedlington/n02093647_291.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Iris",
+      "application": "Herding",
+      "type": "Papillon",
+      "legendTitle": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+      "fileName": "berkshire_investment.xpw",
+      "imageStatus": "Active",
+      "image": "https://images.dog.ceo/breeds/papillon/n02086910_1921.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Bailey",
+      "application": "Detection",
+      "type": "Husky",
+      "legendTitle": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+      "fileName": "com_jersey.taglet",
+      "imageStatus": "Active",
+      "image": "https://images.dog.ceo/breeds/husky/n02110185_10967.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Mochi",
+      "application": "Retrieval",
+      "type": "Whippet",
+      "legendTitle": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+      "fileName": "integrated.f90",
+      "imageStatus": "Active",
+      "image": "https://images.dog.ceo/breeds/pembroke/n02113023_6655.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Millie",
+      "application": "Hunting",
+      "type": "Pembroke",
+      "legendTitle": "The Football Is Good For Training And Recreational Purposes",
+      "fileName": "technician_liaison.uvvt",
+      "imageStatus": "Active",
+      "image": "http://placeimg.com/640/480/animals"
+    },
+    {
+      "id": 9,
+      "name": "Fido",
+      "application": "Therapy",
+      "type": "Malamute",
+      "legendTitle": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+      "fileName": "jewelery_transmitter.xla",
+      "imageStatus": "Active",
+      "image": "https://images.dog.ceo/breeds/malamute/n02110063_9259.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Emma",
+      "application": "Herding",
+      "type": "Redbone",
+      "legendTitle": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+      "fileName": "program_principal_metrics.bz",
+      "imageStatus": "Active",
+      "image": "https://images.dog.ceo/breeds/redbone/n02090379_4453.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Fitz",
+      "application": "Herding",
+      "type": "Chihuahua",
+      "legendTitle": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+      "fileName": "home_index.fh",
+      "imageStatus": "Active",
+      "image": "https://images.dog.ceo/breeds/chihuahua/n02085620_9351.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Emma",
+      "application": "Hunting",
+      "type": "Corgi",
+      "legendTitle": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+      "fileName": "payment_software.cbt",
+      "imageStatus": "Active",
+      "image": "https://images.dog.ceo/breeds/corgi-cardigan/n02113186_4760.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Charlie",
+      "application": "Detection",
+      "type": "Dalmatian",
+      "legendTitle": "The Football Is Good For Training And Recreational Purposes",
+      "fileName": "alley.deploy",
+      "imageStatus": "Active",
+      "image": "https://images.dog.ceo/breeds/dalmatian/cooper2.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Stella",
+      "application": "Retrieval",
+      "type": "Doberman",
+      "legendTitle": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+      "fileName": "integrate_compressing.udeb",
+      "imageStatus": "Active",
+      "image": "https://images.dog.ceo/breeds/doberman/n02107142_16917.jpg"
+    }
+  ]
+}
