@@ -61,6 +61,30 @@
     {
       "id": 8,
       "name": "Australian Kelpie"
+    },
+    {
+      "id": 9,
+      "name": "Doberman"
+    },
+    {
+      "id": 10,
+      "name": "Dalmatian"
+    },
+    {
+      "id": 11,
+      "name": "Corgi"
+    },
+    {
+      "id": 12,
+      "name": "Chihuahua"
+    },
+    {
+      "id": 13,
+      "name": "Redbone"
+    },
+    {
+      "id": 14,
+      "name": "Malamute"
     }
   ],
   "products": [
@@ -138,7 +162,7 @@
       "id": 7,
       "name": "Mochi",
       "application": "Retrieval",
-      "type": "Kelpie",
+      "type": "Australian Kelpie",
       "legendTitle": "Mochi is the best!",
       "fileName": "integrated.f90",
       "imageStatus": "Active",
