@@ -238,5 +238,23 @@
       "imageStatus": "Active",
       "image": "https://images.dog.ceo/breeds/doberman/n02107142_16917.jpg"
     }
+  ],
+  "brands": [
+    {
+      "name": "AtlantaBio",
+      "code": "AB"
+    },
+    {
+      "name": "Novus",
+      "code": "NS"
+    },
+    {
+      "name": "ProteinSimple",
+      "code": "PS"
+    },
+    {
+      "name": "RnD",
+      "code": "RD"
+    }    
   ]
 }
